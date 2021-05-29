@@ -1,0 +1,24 @@
+#img1 {
+    background-image: url(./img/IMG_3540.jpeg);
+    background-size: contain;
+}
+#img2 {
+    background-image: url(./img/IMG_3274.JPG);
+    background-size: cover;
+}
+#img3 {
+    background-image: url(./img/IMG_3288.JPG);
+    background-size: 100%;
+}
+#img4 {
+    background-image: url(./img/IMG_3337.jpeg);
+    background-size: cover;
+}
+#img5 {
+    background-image: url(./img/IMG_3368.jpeg);
+    background-size: contain;
+}
+#img6 {
+    background-image: url(./img/IMG_3388.jpeg);
+    background-size: contain;
+}
